@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basic-qa/static/css/main.41a19a12.css",
+    "main.js": "/basic-qa/static/js/main.7634a93f.js",
+    "index.html": "/basic-qa/index.html",
+    "main.41a19a12.css.map": "/basic-qa/static/css/main.41a19a12.css.map",
+    "main.7634a93f.js.map": "/basic-qa/static/js/main.7634a93f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a19a12.css",
+    "static/js/main.7634a93f.js"
+  ]
+}
